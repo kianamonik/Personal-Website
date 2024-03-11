@@ -1,2 +1,19 @@
 
+## About Me
+
+Hello! I’m Kiana Mohammadinik, a Statistics and Data Science major with a minor in History at UCLA, anticipating to graduate in 2024. I have made it to the Dean's Honors List in Spring 2023, maintaining a GPA of 3.64/4.00. My academic and research endeavors focus on the dynamic fields of statistical models, data analysis, and their applications in various contexts.
+
+## Relevant Work/Academic Experience
+
+### Embedded College Math Tutor at Santa Monica College (Feb. 2020 – Jun. 2022)
+As an Embedded College Math Tutor, I developed and honed my teaching abilities in subjects ranging from college algebra to calculus. Through both individual and group tutoring sessions, I supported students in mastering math skills, enhancing their problem-solving capabilities, and provided personalized feedback to facilitate their academic growth.
+
+### Education at UCLA (Graduating in 2024)
+Currently pursuing a major in Statistics and Data Science with a minor in History, my academic journey encompasses a wide range of subjects, including Probability, Mathematical Statistics, Programming with R, Data Analysis and Regression, among others. This rigorous curriculum has equipped me with a solid foundation in statistical analysis and data-driven research.
+
+### Research Projects
+- **Caffeine’s Effect on Short-Term Memory in Virtual Island Study**: In a group project to explore the impact of caffeine on short-term memory, my group utilized a virtual environment for comprehensive study design, data collection, and statistical analysis.
+
+- **Associations Between Music And Mental Health**: Leading an individual project under the mentorship of Prof. Tsiang, I investigated the correlation between music and mental health. This research involves sophisticated data analysis and model development, aiming to contribute valuable insights to the field.
+
 
