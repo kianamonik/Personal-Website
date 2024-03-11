@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: 772849ec-3f8c-4ca2-bc2d-57a6cafceec9
+      url: 'kiana-mohammadinik.netlify.app'
