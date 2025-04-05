@@ -1,19 +1,29 @@
 
 ## About Me
 
-Hello! I’m Kiana Mohammadinik, a Statistics and Data Science major with a minor in History at UCLA, anticipating to graduate in 2024. I have made it to the Dean's Honors List in Spring 2023, maintaining a GPA of 3.64/4.00. My academic and research endeavors focus on the dynamic fields of statistical models, data analysis, and their applications in various contexts.
+Hi! I'm Kiana Mohammadinik, a graduate student pursuing my M.S. in Biostatistics at UCLA. I hold a B.S. in Statistics and Data Science with a Minor in History, also from UCLA. I am passionate about using data to drive insights and improve decision-making in the healthcare sector.
 
-## Relevant Work/Academic Experience
+My academic and research interests lie at the intersection of data science, statistical modeling, and healthcare analytics. I enjoy exploring complex datasets and building tools that improve the accessibility and impact of research, particularly in health contexts.
 
-### Embedded College Math Tutor at Santa Monica College (Feb. 2020 – Jun. 2022)
-As an Embedded College Math Tutor, I developed and honed my teaching abilities in subjects ranging from college algebra to calculus. Through both individual and group tutoring sessions, I supported students in mastering math skills, enhancing their problem-solving capabilities, and provided personalized feedback to facilitate their academic growth.
+## Research & Projects
 
-### Education at UCLA (Graduating in 2024)
-Currently pursuing a major in Statistics and Data Science with a minor in History, my academic journey encompasses a wide range of subjects, including Probability, Mathematical Statistics, Programming with R, Data Analysis and Regression, among others. This rigorous curriculum has equipped me with a solid foundation in statistical analysis and data-driven research.
+- **Interactive ICU Data Explorer (Shiny App)**  
+  Designed a dynamic R Shiny application that connects to the MIMIC-IV clinical database via Google BigQuery. The app enables interactive exploration of ICU patient data—including vitals, labs, and clinical timelines—by integrating multiple data sources and visualizing patient-level trajectories.
 
-### Research Projects
-- **Caffeine’s Effect on Short-Term Memory in Virtual Island Study**: In a group project to explore the impact of caffeine on short-term memory, my group utilized a virtual environment for comprehensive study design, data collection, and statistical analysis.
+- **Exploratory Analysis with MIMIC-IV Clinical Data**  
+  Conducted observational cohort studies using R and SQL-based tools (Arrow, DuckDB, BigQuery). Focused on ICU patient demographics, lab/vital signs, and longitudinal event data using ggplot2, dplyr, and lubridate.
 
-- **Associations Between Music And Mental Health**: Leading an individual project under the mentorship of Prof. Tsiang, I investigated the correlation between music and mental health. This research involves sophisticated data analysis and model development, aiming to contribute valuable insights to the field.
+- **Predictive Modeling of Diabetes**  
+  Built statistical models in R to assess which health indicators are most predictive of diabetes diagnoses, and evaluated feature relationships through correlation analysis.
 
+- **Civic Engagement Survey at UCLA**  
+  Analyzed survey data using linear mixed effects models, clustering, and text mining to uncover behavioral trends across different UCLA student populations.
+
+- **Associations Between Music and Mental Health**  
+  Conducted research under the mentorship of Dr. Tsiang to explore the relationship between music listening habits and mental health outcomes. Developed a methodology grounded in prior literature to identify meaningful statistical associations.
+
+## Experience
+
+### Undergraduate Math Tutor — Santa Monica College (Feb. 2020 – Jun. 2022)  
+Supported students in Calculus through one-on-one and group tutoring sessions. Collaborated with professors to track progress and led classes in their absence. Developed communication skills and a passion for making complex material accessible.
 

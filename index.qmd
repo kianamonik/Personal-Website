@@ -13,5 +13,5 @@ about:
 image: profile-picture.jpg
 ---
 
-Attached is my current [resume](/docs/resume/resume.pdf "resume")
+Attached is my current [resume](/docs/resume/resume.pdf "resume_2025")
 
