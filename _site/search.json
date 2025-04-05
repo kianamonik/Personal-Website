@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "",
+    "section": "",
+    "text": "Hi! I’m Kiana Mohammadinik, a graduate student pursuing my M.S. in Biostatistics at UCLA. I hold a B.S. in Statistics and Data Science with a Minor in History, also from UCLA. I am passionate about using data to drive insights and improve decision-making in the healthcare sector.\nMy academic and research interests lie at the intersection of data science, statistical modeling, and healthcare analytics. I enjoy exploring complex datasets and building tools that improve the accessibility and impact of research, particularly in health contexts."
+  },
+  {
+    "objectID": "about.html#about-me",
+    "href": "about.html#about-me",
+    "title": "",
+    "section": "",
+    "text": "Hi! I’m Kiana Mohammadinik, a graduate student pursuing my M.S. in Biostatistics at UCLA. I hold a B.S. in Statistics and Data Science with a Minor in History, also from UCLA. I am passionate about using data to drive insights and improve decision-making in the healthcare sector.\nMy academic and research interests lie at the intersection of data science, statistical modeling, and healthcare analytics. I enjoy exploring complex datasets and building tools that improve the accessibility and impact of research, particularly in health contexts."
+  },
+  {
+    "objectID": "about.html#research-projects",
+    "href": "about.html#research-projects",
+    "title": "",
+    "section": "Research & Projects",
+    "text": "Research & Projects\n\nInteractive ICU Data Explorer (Shiny App)\nDesigned a dynamic R Shiny application that connects to the MIMIC-IV clinical database via Google BigQuery. The app enables interactive exploration of ICU patient data—including vitals, labs, and clinical timelines—by integrating multiple data sources and visualizing patient-level trajectories.\nExploratory Analysis with MIMIC-IV Clinical Data\nConducted observational cohort studies using R and SQL-based tools (Arrow, DuckDB, BigQuery). Focused on ICU patient demographics, lab/vital signs, and longitudinal event data using ggplot2, dplyr, and lubridate.\nPredictive Modeling of Diabetes\nBuilt statistical models in R to assess which health indicators are most predictive of diabetes diagnoses, and evaluated feature relationships through correlation analysis.\nCivic Engagement Survey at UCLA\nAnalyzed survey data using linear mixed effects models, clustering, and text mining to uncover behavioral trends across different UCLA student populations.\nAssociations Between Music and Mental Health\nConducted research under the mentorship of Dr. Tsiang to explore the relationship between music listening habits and mental health outcomes. Developed a methodology grounded in prior literature to identify meaningful statistical associations."
+  },
+  {
+    "objectID": "about.html#experience",
+    "href": "about.html#experience",
+    "title": "",
+    "section": "Experience",
+    "text": "Experience\n\nUndergraduate Math Tutor — Santa Monica College (Feb. 2020 – Jun. 2022)\nSupported students in Calculus through one-on-one and group tutoring sessions. Collaborated with professors to track progress and led classes in their absence. Developed communication skills and a passion for making complex material accessible."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "",
+    "section": "",
+    "text": "Attached is my current resume"
+  }
+]
