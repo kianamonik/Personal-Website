@@ -1,16 +1,16 @@
-project:
+project_2:
   type: website
 
 website:
   navbar:
     left:
-      - href: index.qmd
+      - href: index_2.qmd
         text: Home
-      - href: about.qmd
+      - href: about_2.qmd
         text: About
 
   page-footer:
-    right: "&copy; 2024, Kiana Mohammadinik"
+    right: "&copy; 2025, Kiana Mohammadinik"
     
     
 format:
